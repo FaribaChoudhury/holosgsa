@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output and results
+GSA_Runs/
+
+# Installer and binary artifacts
+*.exe
+*.zip
+*.tar.gz
+*.whl
+
+# Logs
+*.log
+
+# Misc
+file_stucture.txt

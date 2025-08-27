@@ -1,0 +1,22 @@
+﻿Farm Name,Component Category,Component Name ,Component Group Name,Enteric CH4 (Mg C02e),Manure CH4 (Mg C02e),Direct N2O (Mg C02e),Indirect N2O (Mg C02e),Energy CO2 (Mg C02e),CO2 (Mg C02e),Sub-total (Mg C02e),
+Farm_Farm_
+,Sheep,
+,,Sheep1,
+,,,Sheep,309.1805,245.929,45.8405,7.5399,0,---,608.4899,
+,,,Sheep1 Totals,309.1805,245.929,45.8405,7.5399,0,---,608.4899,
+
+,Dairy cattle,
+,,Dairyheifers,
+,,,Heifers,41.7816,34.378,6.1597,0.6951,0,---,83.0145,
+,,,Cows,145.3041,93.9524,18.2528,1.972,21.78,---,281.2613,
+,,,Dairyheifers Totals,187.0857,128.3304,24.4125,2.6672,21.78,---,364.2758,
+
+,Beef production,
+,,BeefStockers&Backgrounders,
+,,,Heifers,55.4283,28.8657,6.7489,2.4802,1.485,---,95.0082,
+,,,Steers,72.1409,36.1471,10.4748,3.836,1.296,---,123.8948,
+,,,BeefStockers&Backgrounders Totals,127.5692,65.0128,17.2237,6.3162,2.781,---,218.903,
+
+,,,Farm Total,623.8354,439.2723,87.4767,16.5233,24.561,---,1191.6687,
+
+All Farms,,,,623.8354,439.2723,87.4767,16.5233,24.561,---,1191.6687,

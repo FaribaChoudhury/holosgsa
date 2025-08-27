@@ -1,0 +1,22 @@
+﻿Farm Name,Component Category,Component Name ,Component Group Name,Enteric CH4 (Kg GHGs),Manure CH4 (Kg GHGs),Direct N2O (Kg GHGs),Indirect N2O (Kg GHGs),Energy CO2 (Kg GHGs),CO2 (Kg GHGs),
+Farm_Farm_
+,Sheep,
+,,Sheep1,
+,,,Sheep,11042.1611,8783.18,167.914,27.6186,0,---,
+,,,Sheep1 Totals,11042.1611,8783.18,167.914,27.6186,0,---,
+
+,Dairy cattle,
+,,Dairyheifers,
+,,,Heifers,1492.2008,1227.7871,22.5629,2.5463,0,---,
+,,,Cows,5189.4309,3355.4426,66.8602,7.2236,21780,---,
+,,,Dairyheifers Totals,6681.6317,4583.2297,89.4231,9.7698,21780,---,
+
+,Beef production,
+,,BeefStockers&Backgrounders,
+,,,Heifers,1979.5833,1030.9183,24.7213,9.085,1485,---,
+,,,Steers,2576.4608,1290.9678,38.3691,14.0513,1296,---,
+,,,BeefStockers&Backgrounders Totals,4556.0441,2321.8861,63.0904,23.1364,2781,---,
+
+,,,Farm Total,22279.8369,15688.2958,320.4275,60.5248,24561,---,
+
+All Farms,,,,22279.8369,15688.2958,320.4275,60.5248,24561,---,

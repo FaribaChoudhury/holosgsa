@@ -1,0 +1,67 @@
+﻿Farm Name,Component Category,Component Name ,Component Group Name,Month,Harvest (kg),Area (kg),Land Applied Manure (kg N),Beef (kg),Lamb (kg),Milk (kg),FPCM (kg),
+Farm_Farm
+,Sheep,
+,,Sheep feedlot,
+,,,Sheep,
+,,,,October,N/A,N/A,59044.7065,N/A,2535.8,N/A,N/A,
+,,,,November,N/A,N/A,114092.5347,N/A,2454,N/A,N/A,
+,,,,December,N/A,N/A,183227.9259,N/A,2535.8,N/A,N/A,
+,,,,January,N/A,N/A,16879.3941,N/A,1685.4,N/A,N/A,
+,,,,All Months,N/A,N/A,373244.5613,N/A,0,N/A,N/A,
+
+,,,SheepFeedlotTotals,N/A,N/A,N/A,373244.5613,N/A,9211,N/A,N/A,
+
+,,SheepTotals,N/A,N/A,N/A,N/A,373244.5613,N/A,9211,N/A,N/A,
+
+,Dairy cattle,
+,,Dairy heifers,
+,,,Heifers,
+,,,,All Months,N/A,N/A,45571.4868,N/A,N/A,0,0,
+
+,,,DairyHeifersTotals,N/A,N/A,N/A,45571.4868,N/A,N/A,0,0,
+
+,,Dairy lactating,
+,,,Cows,
+,,,,October,N/A,N/A,4884.9321,N/A,N/A,32550,15164.9275,
+,,,,November,N/A,N/A,13738.8715,N/A,N/A,31500,14675.7535,
+,,,,December,N/A,N/A,23508.7357,N/A,N/A,32550,15164.9275,
+,,,,January,N/A,N/A,4884.9321,N/A,N/A,32550,15164.9275,
+,,,,February,N/A,N/A,13138.1036,N/A,N/A,30450,14186.5795,
+,,,,March,N/A,N/A,23203.4274,N/A,N/A,32550,15164.9275,
+,,,,April,N/A,N/A,31466.4476,N/A,N/A,31500,14675.7535,
+,,,,May,N/A,N/A,41827.231,N/A,N/A,32550,15164.9275,
+,,,,June,N/A,N/A,49489.4833,N/A,N/A,31500,14675.7535,
+,,,,July,N/A,N/A,60451.0345,N/A,N/A,32550,15164.9275,
+,,,,August,N/A,N/A,69915.5904,N/A,N/A,32550,15164.9275,
+,,,,September,N/A,N/A,73973.2356,N/A,N/A,30450,14186.5795,
+,,,,All Months,N/A,N/A,410482.0248,N/A,N/A,383250,178554.9124,
+
+,,,DairyLactatingCowTotals,N/A,N/A,N/A,410482.0248,N/A,N/A,383250,178554.9124,
+
+,,DairyTotals,N/A,N/A,N/A,N/A,456053.5116,N/A,N/A,383250,178554.9124,
+
+,Beef production,
+,,Heifers,
+,,,Heifers,
+,,,,October,N/A,N/A,2163.2268,3410,N/A,N/A,N/A,
+,,,,November,N/A,N/A,6375.2318,3300,N/A,N/A,N/A,
+,,,,December,N/A,N/A,11472.8331,3410,N/A,N/A,N/A,
+,,,,January,N/A,N/A,975.8516,1980,N/A,N/A,N/A,
+,,,,All Months,N/A,N/A,20987.1433,12100,N/A,N/A,N/A,
+
+,,,BeefBackgrounderHeiferTotals,N/A,N/A,N/A,20987.1433,12100,N/A,N/A,N/A,
+
+,,Steers,
+,,,Steers,
+,,,,October,N/A,N/A,2995.5174,4141.6,N/A,N/A,N/A,
+,,,,November,N/A,N/A,8786.2575,4008,N/A,N/A,N/A,
+,,,,December,N/A,N/A,15739.2043,4141.6,N/A,N/A,N/A,
+,,,,January,N/A,N/A,3160.093,3740.8,N/A,N/A,N/A,
+,,,,All Months,N/A,N/A,30681.0722,16032,N/A,N/A,N/A,
+
+,,,BeefFinishingSteerTotals,N/A,N/A,N/A,30681.0722,16032,N/A,N/A,N/A,
+
+,,BeefProductionTotals,N/A,N/A,N/A,N/A,51668.2155,28132,N/A,N/A,N/A,
+
+,,Farm Total,N/A,N/A,N/A,N/A,880966.2884,28132,9211,383250,178554.9124,
+

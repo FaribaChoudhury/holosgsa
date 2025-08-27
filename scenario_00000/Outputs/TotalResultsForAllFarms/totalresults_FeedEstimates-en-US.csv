@@ -1,0 +1,40 @@
+﻿Farm Name,Component Category,Component Name ,Component Group Name,Dry Matter Intake (kg head^-1 day^-1)
+Farm_Farm
+,Sheep,
+,,Sheep feedlot,
+,,,Sheep,0,
+
+,,,SheepFeedlotTotals,0,
+
+,,,SheepTotals,0,
+
+,Dairy cattle,
+,,Dairy heifers,
+,,,Heifers,56.2088,
+
+,,,DairyHeifersTotals,56.2088,
+
+,,Dairy lactating,
+,,,Cows,306.3146,
+
+,,,DairyLactatingCowTotals,306.3146,
+
+,,,DairyTotals,362.5234,
+
+,Beef production,
+,,Heifers,
+,,,Heifers,32.0384,
+
+,,,BeefBackgrounderHeiferTotals,32.0384,
+
+,,Steers,
+,,,Steers,50.6331,
+
+,,,BeefFinishingSteerTotals,50.6331,
+
+,,,BeefProductionTotals,82.6715,
+
+,,,Farm Total,445.1949,
+
+All FarmsTotals,N/A,N/A,Totals,445.1949,
+

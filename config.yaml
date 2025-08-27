@@ -1,0 +1,31 @@
+holos_cli_path: "C:\\Users\\USER\\AppData\\Local\\Apps\\2.0\\X7GW9H6G.KLJ\\WEMGWORH.40L\\h.cl..tion_692594215d6b913a_0001.0000_0430b13dfe4bbf4d\\H.CLI.exe"
+base_scenario_dir: "c:\\Users\\USER\\Desktop\\holos_gsa_tool\\baseline"
+run_parent_dir: "c:\\Users\\USER\\Desktop\\holos_gsa_tool\\GSA_Runs"
+units: 1
+parameters:
+  "Fields/Fields.csv::Yield(kg ha^-1)":
+    min: 2000
+    max: 5000
+  "Beef/Beef.csv::Number Of Animals":
+    min: 10
+    max: 200
+  "Dairy/Dairy.csv::Number Of Animals":
+    min: 20
+    max: 150
+  "Sheep/Sheep.csv::Number Of Animals":
+    min: 50
+    max: 300
+units: 1
+parameters:
+  "Fields/Fields.csv::Yield(kg ha^-1)":
+    min: 2000
+    max: 5000
+  "Beef/Beef.csv::Number Of Animals":
+    min: 10
+    max: 200
+  "Dairy/Dairy.csv::Number Of Animals":
+    min: 20
+    max: 150
+  "Sheep/Sheep.csv::Number Of Animals":
+    min: 50
+    max: 300

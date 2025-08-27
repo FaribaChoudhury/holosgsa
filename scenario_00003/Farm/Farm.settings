@@ -1,0 +1,127 @@
+#Polygon ID: 793006
+Yield Assignment Method = SmallAreaData
+Path To Custom Yield Input File = 
+Polygon Number = 793006
+Latitude = 0
+Longitude = 0
+Use Custom Starting Soil Organic Carbon Value = False
+Starting SOC Value = 0
+Residue Input Calculation Method = Default
+Soil Data Acquisition Method = Default
+Carbon Concentration  (kg kg^-1) = 0.45
+Emergence Day = 141
+Ripening Day = 197
+Variance = 300
+Alfa = 0.7
+Decomposition Minimum Temperature  (°C) = -3.78
+Decomposition Maximum Temperature  (°C) = 30
+Moisture Response Function At Saturation = 0.42
+Moisture Response Function At Wilting Point = 0.18
+
+#Annual Crops
+Percentage Of Product Returned To Soil For Annuals = 2
+Percentage Of Straw Returned To Soil For Annuals = 100
+Percentage Of Roots Returned To Soil For Annuals = 100
+
+#Silage Crops
+Percentage Of Product Yield Returned To Soil For Silage Crops = 2
+Percentage Of Roots Returned To Soil For Silage Crops = 100
+
+#Cover Crops
+Percentage Of Product Yield Returned To Soil For Cover Crops = 100
+Percentage Of Product Yield Returned To Soil For Cover Crops Forage = 35
+Percentage Of Product Yield Returned To Soil For Cover Crops Produce = 0
+Percentage Of Straw Returned To Soil For Cover Crops = 100
+Percentage Of Roots Returned To Soil For Cover Crops = 100
+
+#Root crops
+Percentage Of Product Returned To Soil For Root Crops = 0
+Percentage Of Straw Returned To Soil For Root Crops = 100
+
+#Perennial Crops
+Percentage Of Product Returned To Soil For Perennials = 35
+Percentage Of Roots Returned To Soil For Perennials = 100
+
+#Rangeland
+Percentage Of Product Returned To Soil For Rangeland Due To Harvest Loss = 35
+Percentage Of Roots Returned To Soil For Rangeland = 100
+
+#Fodder Corn
+Percentage Of Product Returned To Soil For Fodder Corn = 35
+Percentage Of Roots Returned To Soil For Fodder Corn = 100
+Decomposition Rate Constant Young Pool = 0.8
+Decomposition Rate Constant Old Pool = 0.00605
+Old Pool Carbon N = 0.1
+NO Ratio = 0.1
+Emission Factor For Leaching And Runoff  (kg N2O-N (kg N)^-1) = 0.011
+Emission Factor For Volatilization  (kg N2O-N (kg N)^-1) = 0.01
+Fraction Of N Lost By Volatilization = 0.21
+Microbe Death = 0.2
+Denitrification = 0.5
+Carbon modelling strategy = IPCCTier2
+Run In Period Years = 15
+
+# ICBM/Climate
+Humification Coefficient Above Ground = 0.125
+Humification Coefficient Below Ground = 0.3
+Humification Coefficient Manure = 0.31
+Climate filename = climate.csv
+Climate Data Acquisition = SLC
+Use climate parameter instead of management factor = True
+Enable Carbon Modelling = True
+
+#Precipitation Data (mm)
+January Precipitation = 9.236
+February Precipitation = 8.1775
+March Precipitation = 13.504
+April Precipitation = 25.5902
+May Precipitation = 47.9845
+June Precipitation = 77.3524
+July Precipitation = 32.405
+August Precipitation = 28.6975
+September Precipitation = 29.495
+October Precipitation = 17.8532
+November Precipitation = 12.6442
+December Precipitation = 11.624
+
+#Evapotranspiration Data (mm year^-1)
+January Potential Evapotranspiration = 0.6603
+February Potential Evapotranspiration = 3.8707
+March Potential Evapotranspiration = 24.8641
+April Potential Evapotranspiration = 65.5419
+May Potential Evapotranspiration = 111.3822
+June Potential Evapotranspiration = 128.6548
+July Potential Evapotranspiration = 157.2685
+August Potential Evapotranspiration = 141.7216
+September Potential Evapotranspiration = 88.972
+October Potential Evapotranspiration = 31.0651
+November Potential Evapotranspiration = 3.7922
+December Potential Evapotranspiration = 0.3505
+
+#Temperature Data (°C)
+January Mean Temperature = -6.1703
+February Mean Temperature = -3.9443
+March Mean Temperature = 0.213
+April Mean Temperature = 5.7744
+May Mean Temperature = 10.8062
+June Mean Temperature = 14.6186
+July Mean Temperature = 17.8376
+August Mean Temperature = 17.3111
+September Mean Temperature = 12.8805
+October Mean Temperature = 6.4944
+November Mean Temperature = -0.5053
+December Mean Temperature = -5.626
+
+#Soil Data
+Province = Alberta
+Year Of Observation = 2025
+Ecodistrict ID = 793
+Soil Great Group = Regosol
+Soil functional category = Black
+Bulk Density = 1.45
+Soil Texture = Medium
+Soil Ph = 7
+Top Layer Thickness  (mm) = 1000
+Proportion Of Sand In Soil = 0.4
+Proportion Of Clay In Soil = 0.3
+Proportion Of Soil Organic Carbon = 1

@@ -1,0 +1,40 @@
+﻿Farm Name,Component Category,Component Name ,Component Group Name,Harvest (kg),Area (kg),Land Applied Manure (kg N),Beef (kg),Lamb (kg),Milk (kg),FPCM (kg),
+Farm_Farm
+,Sheep,
+,,Sheep feedlot,
+,,,Sheep,N/A,N/A,373244.5613,N/A,9211,N/A,N/A,
+
+,,,SheepFeedlotTotals,N/A,N/A,373244.5613,N/A,9211,N/A,N/A,
+
+
+,,SheepTotals,N/A,N/A,N/A,373244.5613,N/A,9211,N/A,N/A,
+
+,Dairy cattle,
+,,Dairy heifers,
+
+,,,DairyHeifersTotals,N/A,N/A,45571.4868,N/A,N/A,0,0,
+
+,,Dairy lactating,
+,,,Cows,N/A,N/A,410482.0248,N/A,N/A,383250,178554.9124,
+
+,,,DairyLactatingCowTotals,N/A,N/A,410482.0248,N/A,N/A,383250,178554.9124,
+
+,,DairyTotals,N/A,N/A,N/A,456053.5116,N/A,N/A,383250,178554.9124,
+
+,Beef production,
+,,Heifers,
+,,,Heifers,N/A,N/A,20987.1433,12100,N/A,N/A,N/A,
+
+,,,BeefBackgrounderHeiferTotals,N/A,N/A,20987.1433,12100,N/A,N/A,N/A,
+
+,,Steers,
+,,,Steers,N/A,N/A,30681.0722,16032,N/A,N/A,N/A,
+
+,,,BeefFinishingSteerTotals,N/A,N/A,30681.0722,16032,N/A,N/A,N/A,
+
+,,BeefProductionTotals,N/A,N/A,N/A,51668.2155,28132,N/A,N/A,N/A,
+
+,,Farm Total,N/A,N/A,N/A,880966.2884,28132,9211,383250,178554.9124,
+
+All Farms,N/A,N/A,Totals,N/A,N/A,880966.2884,28132,9211,383250,178554.9124,
+

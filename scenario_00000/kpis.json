@@ -1,0 +1,25 @@
+{
+  "CO2E_Emissions": {
+    "Total_Enteric_CH4_Mg_CO2e": "623.8354",
+    "Total_Manure_CH4_Mg_CO2e": "439.2723",
+    "Total_Direct_N2O_Mg_CO2e": "87.4767",
+    "Total_Indirect_N2O_Mg_CO2e": "16.5233",
+    "Total_Energy_CO2_Mg_CO2e": "24.561",
+    "Total_CO2E_Mg_CO2e": "1191.6687"
+  },
+  "Production_Estimates": {
+    "Total_Beef_kg": "28132",
+    "Total_Lamb_kg": "9211",
+    "Total_Milk_kg": "383250",
+    "Total_FPCM_kg": "178554.9124",
+    "Total_Land_Applied_Manure_kg_N": "880966.2884"
+  },
+  "GHG_Emissions": {
+    "Total_Enteric_CH4_kg": "22279.8369",
+    "Total_Manure_CH4_kg": "15688.2958",
+    "Total_Direct_N2O_kg": "320.4275",
+    "Total_Indirect_N2O_kg": "60.5248",
+    "Total_Energy_CO2_kg": "24561",
+    "Total_GHG_kg": "---"
+  }
+}
